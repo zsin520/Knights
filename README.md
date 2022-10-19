@@ -5,3 +5,4 @@ The objective of the puzzle is, given a set of sentences spoken by each of the c
 
 logic.py defines several classes for different types of logical connectives. A function recursively considers all possible models, and returns True if the knowledge base entails the query, and returns False otherwise. In the context of this project, knowledge bases were defined for puzzles 0-4 in puzzle.py
 
+An introduction to AI with python project by Harvard University Online
